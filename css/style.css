@@ -52,6 +52,61 @@ header .inner {
     margin-right:15px;
 }
 
+nav > ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px 0 0;
+    position: relative;
+}
+
+nav > ul > li:last-child {
+    margin-right: 0;
+}
+
+nav > ul > li > a {
+    color: #337ab7;
+    display: block;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav > ul > li > ul {
+    background: #ffffff;
+    display: none;
+    left: 0;
+    margin: 0;
+    min-width: 200px;
+    padding: 0;
+    position: absolute;
+    top: 26px;
+}
+
+nav > ul > li:hover > ul {
+    display: block;
+}
+
+nav > ul > li > ul > li {
+    list-style: none;
+}
+
+nav > ul > li > ul > li > a {
+    color: #337ab7;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav > ul > li > ul > li > a:hover {
+    background: #337ab7;
+    color: #ffffff;
+}
+
 footer {
     background-color:#f8f9fa;
     height: 150px;
