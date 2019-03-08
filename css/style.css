@@ -33,11 +33,6 @@ header .inner {
     margin-bottom:50px;
 }
 
-#main {
-    margin: 0 auto;
-    max-width: 990px;
-}
-
 .stripe {
     background-color:#337ab7;
     width:100%;
@@ -105,6 +100,11 @@ nav > ul > li > ul > li > a {
 nav > ul > li > ul > li > a:hover {
     background: #337ab7;
     color: #ffffff;
+}
+
+#main {
+    margin: 0 auto;
+    max-width: 990px;
 }
 
 footer {
