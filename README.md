@@ -6,11 +6,11 @@ Beantworten Sie ein paar Fragen zur letzten Lehrveranstaltung bitte hier in der 
 
 ### Mit welchen Technologien (Programmiersprachen etc.) muss ein Frontendentwickler typischerweise arbeiten?
 
-Ihre Antwort: HTML (Auszeichnungssprache, wird nicht wirklich als Programmiersprache bezeichnet), CSS (Stylesheet-Sprache), JavaScript
+Ihre Antwort: HTML, CSS, JavaScript, JSON, React, Angular, AJAX, jQuery, LESS/SASS/SCSS, View (MVC)
 
 ### Mit welchen Technologien (Programmiersprachen etc.) muss ein Backendentwickler typischerweise arbeiten?
 
-Ihre Antwort: PHP, Java
+Ihre Antwort: PHP, Java, Node.js, Webserver, Datenbankdesign, REST, Controller & Model (MVC)
 
 ### Vervollständigen Sie bitte:
 
